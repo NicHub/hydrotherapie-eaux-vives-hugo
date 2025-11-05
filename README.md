@@ -1,4 +1,6 @@
-# hydrotherapie-eaux-vives (Hugo)
+# github actions hugo example
+
+Basé sur hydrotherapie-eaux-vives
 
 Ce dépôt contient une conversion minimale du site statique vers Hugo. Le site se construit avec `hugo` et est déployé automatiquement sur la branche `gh-pages` via GitHub Actions.
 
